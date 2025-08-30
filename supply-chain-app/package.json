@@ -1,0 +1,37 @@
+{
+  "name": "supply-chain-app",
+  "version": "1.0.0",
+  "description": "A web application to help manage supply chains, providing transportation prices, distribution options, and sourcing alternatives.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "supply chain",
+    "logistics",
+    "transportation",
+    "distribution",
+    "sourcing"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0"
+  },
+  "homepage": "http://yourhomepage.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/supply-chain-app.git"
+  }
+}
